@@ -4,7 +4,7 @@
 // ============================================
 
 // Configuration
-const WHATSAPP_NUMBER = "628123456789"; // Update dengan nomor WhatsApp Anda
+const WHATSAPP_NUMBER = "6287754441820"; // Update dengan nomor WhatsApp Anda
 const BUSINESS_NAME = "Antares Rentcar";
 
 // ============ Navigation Hamburger ============
